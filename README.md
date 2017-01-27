@@ -13,3 +13,5 @@ gonna merge this line
 thursday shit
 
 saturday
+
+friday
